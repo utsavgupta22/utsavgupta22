@@ -24,7 +24,7 @@ Hi, I'm <b>Utsav Gupta!</b>, a passionate self-taught Software Engineer 🚀 fro
 
 <br />
 
-  <img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/utsavgupta22/assets/main/full_stack_development.gif?token=ALY7PZL3JHI72KJLCWMDBDLB3BQ4Y" width="500" height="320" />
+  <img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/utsavgupta22/assets/main/full_stack_development.gif?token=ALY7PZL3JHI72KJLCWMDBDLB3BQ4Y" width="600" height="320" />
   
 ## Talking about Personal Stuff:
 
