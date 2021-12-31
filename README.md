@@ -40,7 +40,7 @@ Hi, I'm <b>Utsav Gupta!</b>, a passionate self-taught Software Engineer 🚀 fro
   <br />
 
 ## Technologies I use:
-
+<img align="right" alt="Coding GIF" src="https://github.com/utsavgupta22/assets/blob/main/Developer.gif" width="550" height="550" />
 ### Languages & Notations:
 
 <code><img height="20" title="Python" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
