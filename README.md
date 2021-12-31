@@ -74,7 +74,7 @@ Hi, I'm <b>Utsav Gupta!</b>, a passionate self-taught Software Engineer 🚀 fro
 <code><img height="20" title="Material Design" alt="Material Design" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"></code>
 <code><img height="20" title="MS Excel" alt="MS Excel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"></code>
 
-<img align="right" alt="Coding GIF" src="https://github.com/utsavgupta22/assets/blob/main/Developer.gif" width="550" height="320" />
+<img align="right" alt="Coding GIF" src="https://github.com/utsavgupta22/assets/blob/main/Developer.gif" width="450" height="320" />
 
 ### Browsers:
 
