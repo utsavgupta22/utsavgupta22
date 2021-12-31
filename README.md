@@ -33,7 +33,7 @@ Hi, I'm <b>Utsav Gupta!</b>, a passionate self-taught Software Engineer 🚀 fro
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@utsavgupta](https://t.me/utsavgupta22)
 - ⚡ Fun fact: 
-- 😄 Pronouns: he/him/his/ug/utsav
+- 😄 Pronouns: he/him/his
   <!-- - 📝 [Resume]) -->
   <!-- You just found my resume. Should you wish a long and happy career, you should turn back now and forget you ever saw this.  -->
   <br />
@@ -53,7 +53,6 @@ Hi, I'm <b>Utsav Gupta!</b>, a passionate self-taught Software Engineer 🚀 fro
 <code><img height="20" title="Javascript/ECMAScript 6" alt="ECMAScript 6" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
 <code><img height="20" title="Java" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" title="Structured Query Language" alt="Structured Query Language" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" title="MS Excel" alt="MS Excel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"></code>
 <code><img height="20" title="Dart" alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
 
 
@@ -73,6 +72,7 @@ Hi, I'm <b>Utsav Gupta!</b>, a passionate self-taught Software Engineer 🚀 fro
 <code><img height="20" title="Windows Terminal" alt="Windows Terminal" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png"></code>
 <code><img height="20" title="Bots" alt="Bots" src="https://raw.githubusercontent.com/github/explore/f79df033ebbd00d8db1ea81f35a5945b110cbee9/topics/bot/bot.png"></code>
 <code><img height="20" title="Material Design" alt="Material Design" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"></code>
+<code><img height="20" title="MS Excel" alt="MS Excel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"></code>
 
 ### Browsers:
 
