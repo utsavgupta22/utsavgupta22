@@ -6,13 +6,13 @@
 <a href="https://t.me/utsavgupta22">
   <img align="left" alt="Utsav's Telegram" title="Utsav's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
-<a href="https://discord.com/users/578725834244751363">
+<a href="https://discord.com/users/947785648809574401">
   <img align="left" alt="UG#2814" title="UG#2814" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/_utsavgupta_">
   <img align="left" alt="Utsav's Twitter" title="Utsav's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://leetcode.com/utsavgupta22/">
+<a href="https://leetcode.com/utsav_gupta/">
   <img align="left" alt="Utsav's LeetCode" title="Utsav's LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Leetcode.svg" />
 </a>
 
